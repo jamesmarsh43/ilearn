@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.sas.lms.mobile" version="2.02" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>SAS-LMS Mobile</name>
+<widget id="com.sas.lms.mobile" version="1.01" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>SAS-iLearn Mobile</name>
   <description>SAS LMS Mobile app</description>
   <author href="http://iosce/LMS.com" email="admin@iosce.net">SAS Admin</author>
   <content src="index.html"/>
